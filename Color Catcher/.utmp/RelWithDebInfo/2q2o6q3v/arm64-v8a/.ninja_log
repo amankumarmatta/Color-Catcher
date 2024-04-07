@@ -1,0 +1,11 @@
+# ninja log v5
+42	2015	7342339295136217	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	81a47b18e2379df2
+27	2034	7342339308170867	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	760a9ab31411ee28
+22	2158	7342339308562810	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c3fa5d49137e81f9
+11	2159	7342339308934527	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	37bc6f98bdf1dbfc
+35	2160	7342339310312024	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a717863b64cd36
+0	2267	7342339311090818	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6e013ca873467dce
+2017	2268	7342339311895383	D:/Projects/Color-Catcher/Color Catcher/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2q2o6q3v/obj/arm64-v8a/libswappywrapper.so	4b76b3e8d96d989d
+16	2614	7342339315111780	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6dca4687f4c24a64
+6	3006	7342339318958107	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	a5aedd9ad332c813
+3007	3108	7342339320425118	D:/Projects/Color-Catcher/Color Catcher/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2q2o6q3v/obj/arm64-v8a/libgame.so	d8eebe123826b884

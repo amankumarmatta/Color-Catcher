@@ -1,0 +1,1 @@
+D:\Projects\Color-Catcher\Color Catcher\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2q2o6q3v\obj\arm64-v8a
